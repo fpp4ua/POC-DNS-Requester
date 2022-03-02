@@ -1,0 +1,14 @@
+{
+  "root": "/",
+  "headers": {
+    "/index.html": {
+      "Cache-Control": "public, max-age=3600"
+    },
+    "/": {
+      "Cache-Control": "public, max-age=3600"
+    },
+    "/flood.js": {
+      "Cache-Control": "public, max-age=3600"
+    }
+  }
+}
